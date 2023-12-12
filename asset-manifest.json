@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myProject/static/css/main.58bb1bf3.css",
+    "main.js": "/myProject/static/js/main.4ff34023.js",
+    "static/js/787.e92df724.chunk.js": "/myProject/static/js/787.e92df724.chunk.js",
+    "static/media/oslo.jpg": "/myProject/static/media/oslo.57537c699bbc64c35eb6.jpg",
+    "static/media/newYork.jpg": "/myProject/static/media/newYork.72ca02244d0313789c4c.jpg",
+    "static/media/Amsterdam.jpg": "/myProject/static/media/Amsterdam.c88359987a9ec598efba.jpg",
+    "static/media/bckTop.jpg": "/myProject/static/media/bckTop.b674172ae403e8d8de51.jpg",
+    "static/media/berlin.jpg": "/myProject/static/media/berlin.42090c8ef9348a8550b6.jpg",
+    "static/media/bottle.png": "/myProject/static/media/bottle.0f250e17a0470e947c0a.png",
+    "static/media/helsinki.jpg": "/myProject/static/media/helsinki.62523570c9161e11f6ea.jpg",
+    "index.html": "/myProject/index.html",
+    "main.58bb1bf3.css.map": "/myProject/static/css/main.58bb1bf3.css.map",
+    "main.4ff34023.js.map": "/myProject/static/js/main.4ff34023.js.map",
+    "787.e92df724.chunk.js.map": "/myProject/static/js/787.e92df724.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58bb1bf3.css",
+    "static/js/main.4ff34023.js"
+  ]
+}
